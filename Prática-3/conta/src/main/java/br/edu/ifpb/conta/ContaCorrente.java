@@ -1,5 +1,4 @@
 package br.edu.ifpb.conta;
-
 import java.util.Date;
 
 public class ContaCorrente {

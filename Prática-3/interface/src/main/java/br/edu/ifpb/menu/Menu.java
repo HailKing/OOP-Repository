@@ -1,7 +1,5 @@
 package br.edu.ifpb.menu;
-
 import br.edu.ifpb.conta.ContaCorrente;
-
 import java.util.Scanner;
 
 public class Menu {
